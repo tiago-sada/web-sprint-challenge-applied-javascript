@@ -14,4 +14,3 @@ headerAppender('.header-container')
 tabsAppender('.tabs-container')
 cardAppender('.cards-container')
 
-console.log("Hello")
